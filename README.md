@@ -5,9 +5,9 @@ Vladislav Maslovsky's Profile Page.
 
 ### Clone Repository
 
-	[https://github.com/vladislavmaslovsky/MyInstuction.git]
+	(https://github.com/vladislavmaslovsky/MyInstuction.git)
 
-### Clone Repository
+### NPM Install
 
 #### `npm install`
 
