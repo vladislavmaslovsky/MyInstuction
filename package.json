@@ -3,9 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "core-js": "^3.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "jquery": "^3.4.1",
+    "mongoose": "^5.5.10",
+    "popper.js": "^1.15.0",
     "react": "^16.8.6",
+    "react-bootstrap-datatable": "^1.0.0",
+    "react-data-table-component": "^1.4.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.1",
+    "styled-components": "^4.2.0",
+    "ts-pnp": "^1.1.2",
+    "tsutils": "^3.10.0",
+    "typescript": "^3.4.5"
   },
   "scripts": {
     "start": "set PORT=3005 && react-scripts start",
@@ -27,5 +43,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Vladislav Maslovsky's Profile Page.",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladislavmaslovsky/MyInstuction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladislavmaslovsky/MyInstuction/issues"
+  },
+  "homepage": "https://github.com/vladislavmaslovsky/MyInstuction#readme"
 }
